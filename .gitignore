@@ -1,0 +1,5 @@
+artifacts
+cache
+log
+test/result
+.DS_Store
